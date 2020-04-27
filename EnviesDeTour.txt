@@ -1,0 +1,50 @@
+1,Botho,Tsiane,F,23/10/1978,Box 42231,Gaborone,Management,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,40
+2,James,Pilane,M,22/09/1969,Box 77112,Gaborone,Marketing,Head,02/03/2009,160,378.5,0,0,0,1800,0.15,40
+3,Domenica,Lair,F,23/12/1984,Box 49991,Francistown,Marketing,Deputy,19/07/2010,160,295.23,0,0,0,1500,0.15,30
+4,Ira,Statham,F,02/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+5,Colleen,Binns,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+6,Jennifer,Farmer,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+7,Joanna,Riley,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+8,Nicholas,Saunders,M,23/10/1980,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+9,Nicole,Chapman,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+10,Viola,Thomas,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+11,Gorata,Moyo,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+12,Botshelo,Matthews,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+13,Lerato,Kuda,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+14,Katlo,Tselayakgosi,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+15,Melissa,Ntsabane,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+16,Kgosi,Poncana,M,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+17,Refilwe,Sechele,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+18,Pearl,Bontsi,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+19,Joy,Maseko,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+20,Kagiso,Setlang,M,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+21,Matthew,Kgosi,M,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+22,Katlego,Makwati,M,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+23,Kuda,Nkala,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+24,Melissa,Mphoto,F,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+25,Chedza,Morewane,F,23/10/1988,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+26,Tefo,Sekhobe,M,23/10/1978,Box 42231,Gaborone,Marketing,CEO,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+27,Lisa,Kelesitse,F,23/10/1978,Box 42231,Gaborone,Human Resource,Manager,01/02/2010,160,508.2,0,0,0,2000,0.15,40
+28,Kitso,Lemogang,M,23/10/1978,Box 42231,Gaborone,Human Resource,Deputy,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+29,Thabo,Mogale,M,23/10/1978,Box 42231,Gaborone,Human Resource,Assistant,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+30,Lame,Gabaake,F,23/10/1978,Box 42231,Gaborone,Human Resource,Assistant,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+31,Linda,Moalafi,F,23/10/1978,Box 42231,Gaborone,Human Resource,Trainee,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+32,Phenyo,Moeti,M,23/10/1978,Box 42231,Gaborone,Accounts,Finance Manager,01/02/2010,160,508.2,0,0,0,2000,0.15,40
+33,Mpho,Ngidi,F,23/10/1978,Box 42231,Gaborone,Accounts,Senior Accountant,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+34,Olorato,Ramokate,F,23/10/1978,Box 42231,Gaborone,Accounts,Junior Accountant,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+35,Tiro,Kalaote,M,23/10/1978,Box 42231,Gaborone,Accounts,Trainee,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+36,Thato,Kesenye,F,23/10/1978,Box 42231,Gaborone,Accounts,Assistant,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+37,Martin,Chengewa,F,23/10/1977,Box 42231,Gaborone,Support Staff,ICT Head,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+38,John,Phatshwane,M,23/10/1971,Box 42231,Gaborone,Support Staff,ICT Assistant,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+39,Modiri,Kesenye,M,23/10/1978,Box 42231,Gaborone,Support Staff,Sales,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+40,Leruo,Moesi,M,23/10/1974,Box 42231,Gaborone,Support Staff,Driver,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+41,Daniel,Ndlovu,M,23/10/1992,Box 42231,Gaborone,Support Staff,Sales,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+42,Opelo,Makgwa,F,23/10/1991,Box 42231,Gaborone,Support Staff,Driver,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+43,Wame,Mpai,F,23/10/1986,Box 42231,Gaborone,Support Staff,ICT Trainee,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+44,David,Molefi,M,23/10/1987,Box 42231,Gaborone,Support Staff,Tour Operator,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+45,Tlotlo,Phiri,M,23/10/1975,Box 42231,Gaborone,Support Staff,Tour Operator,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+46,Emil,Tarver,M,23/10/1970,Box 42231,Gaborone,Support Staff,Tour Operator,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+47,Sergio,Foree,M,23/10/1989,Box 42231,Gaborone,Temporary Staff,Sales,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+48,Florinda,Gandara,F,23/10/1990,Box 42231,Gaborone,Temporary Staff,Sales,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+49,Nathalie,Thieme,F,23/10/1985,Box 42231,Gaborone,Temporary Staff,Sales,01/02/2010,160,508.2,0,0,0,2000,0.15,30
+50,Yelena,Hoang,F,23/10/1977,Box 42231,Gaborone,Temporary Staff,Sales,01/02/2010,160,508.2,0,0,0,2000,0.15,30
